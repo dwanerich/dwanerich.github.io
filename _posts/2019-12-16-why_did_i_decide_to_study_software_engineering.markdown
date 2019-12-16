@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Did I Decide To Study Software Engineering?"
-date:       2019-12-16 05:36:34 +0000
+date:       2019-12-16 00:36:35 -0500
 permalink:  why_did_i_decide_to_study_software_engineering
 ---
 
@@ -10,7 +10,7 @@ permalink:  why_did_i_decide_to_study_software_engineering
 ### As a young man, i have always been fascinated by the computer and the evolution of techology.
 ### Unfortunately the opportunity did not open for me to pursue this career.
 
-### After entering as a coder into the health information industry, I’ve been more exposed to a variety of engineering realizing that this is indeed the my path for me.
+### After entering as a coder into the health information industry, I’ve been more exposed to a variety of engineering realizing that this is indeed the path for me.
 
 ### I will emulate the best that is offered and that which will put me in good stead in the years that lie ahead.
 
