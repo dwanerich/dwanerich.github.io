@@ -1,11 +1,11 @@
 # Site settings
 author: dwane richards
-title: 
+title: 20/20 Code Life
 header-img: img/home-bg.png
 email: dwanerich@gmail.com
 copyright_name: dwane richards
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the only thing worse than being blind is having sight but no vision.hk
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dwanerich
