@@ -8,13 +8,12 @@ permalink:  why_did_i_decide_to_study_software_engineering
 
 ### The discovery of a purposeful career relative to today, tomorrow and the future has led me to the decision to study software engineering.
 ### As a young man, i have always been fascinated by the computer and the evolution of techology.
-### Unfortunately the opportunity did not open for me to pursue this career.
 
 ### After entering as a coder into the health information industry, I’ve been more exposed to a variety of engineering realizing that this is indeed the path for me.
 
 ### I will emulate the best that is offered which will put me in good stead in the years that lie ahead.
 
-### Programming is where my love lies therefore I have now made an informed decision to pursue it to the fullest.
+### Creative problem solving is where my love lies therefore I have now made an informed decision to pursue it to the fullest.
 
 ### I’m serving as an example to the young people of today to know that they too can grow up and be expansive in any career of their choice that will leave a strong footprint.
 
