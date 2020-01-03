@@ -6,7 +6,7 @@ permalink:  why_did_i_decide_to_study_software_engineering
 ---
 
 
-### Purpose led me to the decision of pursuing a career in software engineering.
+### The discovery of a purposeful career relative to today, tomorrow and the future has led me to the decision to study software engineering.
 ### As a young man, i have always been fascinated by the computer and the evolution of techology.
 ### Unfortunately the opportunity did not open for me to pursue this career.
 
