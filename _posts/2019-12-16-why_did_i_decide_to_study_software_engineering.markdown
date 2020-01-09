@@ -1,20 +1,19 @@
 ---
 layout: post
-title:      "Why Did I Decide To Study Software Engineering?"
+title:      "Why did I decide to study software engineering?"
 date:       2019-12-16 00:36:35 -0500
 permalink:  why_did_i_decide_to_study_software_engineering
 ---
 
 
-### The discovery of a purposeful career relative to today, tomorrow and the future has led me to the decision to study software engineering.
-### As a young man, i have always been fascinated by the computer and the evolution of techology.
+### Dwane is a creative collaborator and a dedicated lifetime learner determined to bring innovation and diversity to the tech space for the overall advancement of the culture.
 
-### After entering as a coder into the health information industry, I’ve been more exposed to a variety of engineering realizing that this is indeed the path for me.
+### His concentration in audio engineering/music business scored him a sync licensing deal with Mtv networks & production credit for the likes of recording artist French Montana.
 
-### As a Flatiron student I will emulate the best that is offered which will put me in good stead in the years that lie ahead.
+### Dwane’s coding & abstraction work for the Mount Sinai Health System has generated in the upwards of $200 million.
 
-### Creative problem solving is where my love lies therefore I have now made an informed decision to pursue it to the fullest.
+### Through various free online resources, Dwane quickly fell in love with programming drawing parallel’s to his digital audio workstation proficiency.
 
-### I’m serving as an example to the young people of today to know that they too can grow up and be expansive in any career of their choice that will leave a strong footprint.
+### In pursuit of a new and purposeful career relative to today, tomorrow and the future, Dwane has taken bold steps to fully immerse himself into STEM.
 
-### I will continue in the the field of software engineering with a dedication to a lifetime of learning in the rapidly evolving world of tech. I will do everything in my power to remain humble and receptive to make this field a wide, aspiring and enticing for which people will want to enter.
+### As a recent enrollee to the Flatiron School, he will now embark on the rigorous bootcamp for full stack software engineering.
