@@ -14,6 +14,6 @@ permalink:  why_did_i_decide_to_study_software_engineering
 
 ### Through various free online resources, Dwane unlocked his passion for programming drawing parallel’s to his digital audio workstation proficiency.
 
-### In pursuit of a new and purposeful career relative to today, tomorrow and the future, Dwane has taken bold steps to fully immerse himself into STEM.
+### In pursuit of a new and purposeful career relative to today, tomorrow and the future, Dwane has taken bold steps towards fully immersing himself into STEM.
 
 ### As a recent enrollee to the Flatiron School, he will now embark on the rigorous bootcamp for full stack software engineering.
