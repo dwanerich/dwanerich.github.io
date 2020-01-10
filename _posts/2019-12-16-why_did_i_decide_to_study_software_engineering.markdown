@@ -12,7 +12,7 @@ permalink:  why_did_i_decide_to_study_software_engineering
 
 ### Dwane’s coding & abstraction work for the Mount Sinai Health System has generated in the upwards of $200 million.
 
-### Through various free online resources, Dwane quickly fell in love with programming drawing parallel’s to his digital audio workstation proficiency.
+### Through various free online resources, Dwane unlocked his passion for programming drawing parallel’s to his digital audio workstation proficiency.
 
 ### In pursuit of a new and purposeful career relative to today, tomorrow and the future, Dwane has taken bold steps to fully immerse himself into STEM.
 
