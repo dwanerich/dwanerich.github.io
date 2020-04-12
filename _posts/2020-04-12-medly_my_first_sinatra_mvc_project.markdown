@@ -29,6 +29,10 @@ See detail and concepts below for which this app was build. I found that buildin
 #### 1. User
 #### 2. Medicine
 
+### `Class User < ActiveRecord::Base` 
+### `end`
+
+
 >  with a relationship of:
 >  
 >  :`has_many` && `:belongs_to`  where Medicine :belongs_to User && User :has_many medicines right?  
@@ -51,10 +55,6 @@ Class CreateUsers < ActiveRecord::Migration
       t.timestamps null: false
     end
 ```
-
-
-### `Class User < ActiveRecord::Base` 
-### `end`
 
 
 ### `CRUD = ["CREATE", "READ", "UPDATE", "DELETE"]`
