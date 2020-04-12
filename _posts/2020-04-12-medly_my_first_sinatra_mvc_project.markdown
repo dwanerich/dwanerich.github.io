@@ -12,7 +12,7 @@ MedLy is an application that allows users to create an account for medication ad
 
 See detail and concepts below for which this app was build. I found that building this project was best executed by breaking it down into several parts and putting it all back together.
  
-## `:MVC=> {Models, Views, Controllers}`
+## `:MVC=> {'Models','Views', 'Controllers'}`
 
 > MVC is a concept which stands for Models, Views, Controllers using the analogy of a restaurant Chef, waiter & costumer to best describe it relationship. MVC also represents a concept we know as separation of concerns.
 
