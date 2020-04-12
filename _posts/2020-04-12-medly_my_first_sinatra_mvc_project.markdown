@@ -67,13 +67,13 @@ CRUD represents our four basic functions of a model . Create. Read. Update. Dele
 > for MedLy we split our controller into 3. By convention we use a main controller to inherit from Sinatra::Base and the other controllers inherit from the main controller. Note only one controller can be ran at once in our config.ru so others
 > must be set to use.
 
-####  `applications_controller <users_controller`
+####  `users_controller <applications_controller`
 > this is where our post & gets requests for user account created.
 
-#### `applications_controller < medicines_controller`
+#### `medicines_controller < applications_controller`
 > this controller is where our create, read, update blocks are created.
 
-#### `applications_controller < sessions_controller`
+#### `sessions_controlller <applications_controller`
 > here is where we create user login & log out controls.
 
 ### VALIDATION
