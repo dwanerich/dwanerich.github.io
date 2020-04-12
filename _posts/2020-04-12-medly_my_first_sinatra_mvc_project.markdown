@@ -17,11 +17,11 @@ Below entails some technical detail and concepts for which this app was build. I
 > MVC is a concept which stands for Models, Views, Controllers using the analogy of a restaurant Chef, waiter & costumer to best describe it relationship. MVC also represents a concept we know as separation of concerns.
 
 
-#### **Model = Chef=> {"Brains Behind"}
+#### Model = Chef=> {"Brains Behind"}
 
-#### **View = Customer => {"Visuals what you see"}
+#### View = Customer => {"Visuals what you see"}
 
-#### **Controller = Waiter=> {"Middle man"}
+#### Controller = Waiter=> {"Middle man"}
 
 
 **our project required creation of two models:**
