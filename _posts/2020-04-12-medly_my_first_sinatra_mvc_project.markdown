@@ -59,7 +59,7 @@ Class CreateUsers < ActiveRecord::Migration
 
 ### `CRUD = ["CREATE", "READ", "UPDATE", "DELETE"]`
 
-CRUD represents our four basic functions of a model . Create. Read. Update. Delete. CRUD represents our four basic functions of a model. In our App a user can create a medicine, see their medicine, update & delete.
+CRUD represents our four basic functions of a model . Create. Read. Update. Delete. In our App a user can create a medicine, see their medicine, update & delete.
 
 
 ### `Controllers < Sinatra::Base`
