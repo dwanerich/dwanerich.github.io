@@ -86,9 +86,9 @@ CRUD represents our four basic functions of a model . Create. Read. Update. Dele
 
 ###  "The application sends users a reminder text message when
 
-`Time.now <= `last_time_reminded_at`
+`Time.now <= `last_time_reminded_sent_at`
 
-At at point user can delete their medication or edit name, condition they're taking medication for and the interval."
+At any point when a user is logged in, user can delete their medication or edit name, condition they're taking medication for and the interval. lastly, another user should not be able to edit another user's profile or medications."
 
 
 ### end
