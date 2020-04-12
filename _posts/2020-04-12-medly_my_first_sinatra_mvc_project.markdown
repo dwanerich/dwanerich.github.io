@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "MedLy: My First Sinatra MVC Project"
-date:       2020-04-12 19:16:31 +0000
+title:      "MedLy: My First Sinatra Application"
+date:       2020-04-12 15:16:32 -0400
 permalink:  medly_my_first_sinatra_mvc_project
 ---
 
