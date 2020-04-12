@@ -6,11 +6,11 @@ permalink:  medly_my_first_sinatra_mvc_project
 ---
 
 
-Welcome to the journey of my Sinatra MVC project named MedLy! (that i am super proud of by the way ; )
+Welcome to the technical journey of my Sinatra MVC project named MedLy! (that i am super proud of by the way ; )
 
 MedLy is an application that allows users to create an account for medication adminstration reminders. Features include  creating, viewing, editing, and deleting medications and their interval of administration value. 
 
-See technical detail and concepts below for which this app was build. I found that building this project was best executed by breaking it down into several parts and putting it all back together.
+See detail and concepts below for which this app was build. I found that building this project was best executed by breaking it down into several parts and putting it all back together.
  
 ## `:MVC=> {Models, Views, Controllers}`
 
