@@ -17,8 +17,8 @@ Special thanks to Corneal Gem!! A Sinatra Project Template (courtesy of Flatiron
 
 **the project required a minimum of two model classes, for my particular app these classes would be:**
 
-#### 1. User
-#### 2. Medicine
+#### 1. `User`
+#### 2. `Medicine`
 
 ### `Class User < ActiveRecord::Base` 
 ### `end`
