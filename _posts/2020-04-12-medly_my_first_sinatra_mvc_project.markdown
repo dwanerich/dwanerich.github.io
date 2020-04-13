@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "MedLy: My First Sinatra Application"
+title:      "MedLy - My First Sinatra Application"
 date:       2020-04-12 15:16:32 -0400
 permalink:  medly_my_first_sinatra_mvc_project
 ---
