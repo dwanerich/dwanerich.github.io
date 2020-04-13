@@ -12,10 +12,10 @@ MedLy is an application that allows users to create an account for medication ad
 
 See detail and concepts below for which this app was build. I found that building this project was best executed by breaking it down into several parts and putting it all back together.
 
-To kick things off, i started off with with the Corneal Gem a Sinatra Project Template (courtesy of Flatiron Alumni). Download this and you're ready to asap. I made a few adjustments, deleted some folders and files i began with creation of my  Models & Tables.
+To kick things off, i started off with with the Corneal Gem a Sinatra Project Template (courtesy of Flatiron Alumni). I made a few adjustments, deleted some folders/files and it was off to the races.
 
 
-**our project required creation of two model classes:**
+**the project required a minimum of two model classes, for my particular app these classes would be:**
 
 #### 1. User
 #### 2. Medicine
