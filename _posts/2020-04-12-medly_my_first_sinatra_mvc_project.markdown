@@ -28,7 +28,7 @@ To kick things off, i started off with with the Corneal Gem a Sinatra Project Te
 >  
 >  :`has_many` && `:belongs_to`  where Medicine :belongs_to User && User :has_many medicines right?  
  
-## `:MVC=> {'Models','Views', 'Controllers'}`
+### `:MVC=> {'Models','Views', 'Controllers'}`
 
 > MVC is a concept which stands for Models, Views, Controllers using the analogy of a restaurant Chef, waiter & costumer to best describe it relationship. MVC also represents a concept we know as separation of concerns.
 
