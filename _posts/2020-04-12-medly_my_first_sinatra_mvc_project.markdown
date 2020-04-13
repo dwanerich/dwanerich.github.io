@@ -40,7 +40,7 @@ To kick things off, i started off with with the Corneal Gem a Sinatra Project Te
 #### Controller = :Waiter=> {"Middle man"}
 
  
- ### Active Record
+###  Active Record
  
 >  we create tables for our models via ActiveRecord and migrate data via Rake. 
 >  Models are created with their respective corresponding attributes.
@@ -90,7 +90,8 @@ CRUD represents our four basic functions of a model . Create. Read. Update. Dele
 
 ###  "The application sends users a reminder text message when
 
-`Time.now <= `last_time_reminder_sent_at`
+`if (Time.now - medicine.interval.minutes) >= medicine.last_reminder_sent_at
+          "sending..."`
 
 At any point when a user is logged in, user can delete their medication or edit name, condition they're taking medication for and the interval. lastly, another user should not be able to edit another user's profile or medications."
 
