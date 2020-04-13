@@ -17,11 +17,11 @@ See detail and concepts below for which this app was build. I found that buildin
 > MVC is a concept which stands for Models, Views, Controllers using the analogy of a restaurant Chef, waiter & costumer to best describe it relationship. MVC also represents a concept we know as separation of concerns.
 
 
-#### Model = Chef=> {"Brains Behind"}
+#### Model = :Chef=> {"Brains Behind"}
 
-#### View = Customer => {"Visuals what you see"}
+#### View = :Customer => {"Visuals what you see"}
 
-#### Controller = Waiter=> {"Middle man"}
+#### Controller = :Waiter=> {"Middle man"}
 
 
 **our project required creation of two model classes:**
@@ -37,11 +37,11 @@ See detail and concepts below for which this app was build. I found that buildin
 >  
 >  :`has_many` && `:belongs_to`  where Medicine :belongs_to User && User :has_many medicines right?  
  
- ### RakeDB
+ ### Active Record
  
->  we create tables for our models via SQLite3 and migrate & mange them via Rake gem. 
+>  we create tables for our models via ActiveRecord and migrate data via Rake. 
 >  Models are created with their respective corresponding attributes.
->  Our database or Model class and our controller all communicate with one another flowing information back and for creating a robust responsive web application.
+>  Our database & Model classes all communicate with information back and forth with controllers that's a small but yet major component of the robust responsive web application.
 >  
 
 ```
@@ -71,10 +71,11 @@ CRUD represents our four basic functions of a model . Create. Read. Update. Dele
 > this is where our post & gets requests for user account created.
 
 #### `medicines_controller < applications_controller`
-> this controller is where our create, read, update blocks are created.
+> this controller is where our medicine CRUD code lives
 
 #### `sessions_controlller <applications_controller`
 > here is where we create user login & log out controls.
+> sessions is like a cookie but on the server side best described as a hash that stores user data for the time the user is logged into their account. Sessions allows a user to remain logged in once and not have to continue logging in when they navigate the site.
 
 ### VALIDATION
 
@@ -86,7 +87,7 @@ CRUD represents our four basic functions of a model . Create. Read. Update. Dele
 
 ###  "The application sends users a reminder text message when
 
-`Time.now <= `last_time_reminded_sent_at`
+`Time.now <= `last_time_reminder_sent_at`
 
 At any point when a user is logged in, user can delete their medication or edit name, condition they're taking medication for and the interval. lastly, another user should not be able to edit another user's profile or medications."
 
