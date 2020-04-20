@@ -45,7 +45,15 @@ Special thanks to Corneal Gem!! A Sinatra Project Template (courtesy of Flatiron
 >  we create tables for our models via ActiveRecord and migrate data via Rake. 
 >  Models are created with their respective corresponding attributes.
 >  Our database & Model classes all communicate with information back and forth with controllers that's a small but yet major component of the robust responsive web application.
->  
+>  tasks sinatra gives us include:
+1. rake db:migrate
+2.  rake db:seed
+3. rake db:rollback 
+4. rake db:drop
+5. rake db:reset
+6. rake db:create_migration
+And more!
+
 
 ```
 Class CreateUsers < ActiveRecord::Migration
