@@ -6,14 +6,13 @@ permalink:  why_did_i_decide_to_study_software_engineering
 ---
 
 
-### Dwane is a creative collaborator and a dedicated lifetime learner determined to bring innovation and diversity to the tech space for the overall advancement of the culture.
+###  When proposed with the question why did I embark on this journey of learning to code, I felt obligated to have a purposeful response vs. " it just sounds cool".
 
-### His concentration in audio engineering/music business scored him a sync licensing deal with Mtv networks & production credit for the likes of recording artist French Montana.
+### If I had to retrace my a.ha moment it would be the day I visited Google. I was exposed to a world that i could have never fathomed existed. How would I? As a culture we have infused our talents in the music, sports & entertainment industries but have failed to penetrate the tech world.  Less than 2% of African Americans are employed by there. This is an astounding reality! Even women contribute to 20%.
 
-### Dwane’s coding & abstraction work for the Mount Sinai Health System has generated in the upwards of $200 million.
+### After learning more about coding, I discovered that although this career path may impose challenges I wanted in! I could identify that it would be lucrative and substantially impactful, especially to the communities I serve and that in itself would be gratifying. I find that there aren't many things in life that you'll be excited to commit to but in pursuit of becoming a software engineer,  I'm certain that I can in tech and comfortably pay it forward. 
 
-### Through various free online resources, Dwane unlocked his passion for programming drawing parallel’s to his digital audio workstation proficiency.
 
-### In pursuit of a new and purposeful career relative to today, tomorrow and the future, Dwane has taken bold steps towards fully immersing himself into STEM.
+### In a world that suddenly proclaims diversity & inclusion, this translates disproportionately and I'm dedicated to the change that. I am the example for the colored youth to know that we can grow up and be expansive in any environment in any career especially one that will have a strong footprint in the future. 
 
-### As a recent enrollee to the Flatiron School, he will now embark on the rigorous bootcamp for full stack software engineering.
+### I consider myself to be gregarious and thrive in social settings but what motivates me in foreign concepts is the need to see my mission through so that I can serve as a testament. I code so that 10 kids that were unfamiliar with it can learn and surpass me. I code so that we can eradicate the 2% reserved for us. 
