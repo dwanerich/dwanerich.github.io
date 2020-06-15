@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Solefood - Rails Sneaker Collector App"
-date:       2020-06-15 03:17:51 +0000
+title:      "Solefood Rails Sneaker Collector App"
+date:       2020-06-14 23:17:52 -0400
 permalink:  solefood_-_rails_sneaker_collector_app
 ---
 
