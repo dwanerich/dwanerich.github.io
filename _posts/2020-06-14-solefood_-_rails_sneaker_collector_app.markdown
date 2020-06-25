@@ -23,7 +23,7 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 
 
-### Validation such as has_secure_password are used to protect database from bad data.
+### Validation such as `has_secure_password` are used to protect database from bad data.
 
 ...
 
