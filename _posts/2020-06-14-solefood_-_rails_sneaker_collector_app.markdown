@@ -7,7 +7,9 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 
 
-### My rails app was designed for a sneaker collector to add his/her sneaker, create a brand or choose an existing brand from a drop down menu and build a catalog of sneakers. User can edit delete & update sneakers. Users can see all brands, all sneakers within the app and also comment on other sneaker posts within the network.
+### My rails app Solefood is a sneaker collector sytems management app. App allows user to create an account with password, add sneakers with  a brand association with full CRUD functionality, comment on other user sneakers & lastly delete their own account.
+
+### Below are some of the nuts & bolds upon which this app was built.
 
 
 ### The Rails project explores the conventions of MVC, Validations, Authorization, CRUD & Restful Routes.
@@ -18,18 +20,71 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ...
 
+
+
+
 ### Validation such as has_secure_password are used to protect database from bad data.
 
 ...
 
-### OmniAuth
-...
+### OmniAuth - Facebook allows a user to login via facebook rather than creating an new account.
+
+``Rails.application.config.middleware.use OmniAuth::Builder do
+  provider :facebook, ENV['FACEBOOK_KEY'], ENV['FACEBOOK_SECRET']
+end
+```
+
+
+
+
 
 ### Nested Routes
 
-...
 
-### Restful Convention
+```
+resources :sneakers do
+    resources :comments
+  end
+```
+
+
+```
+def index
+        
+        if params[:brand_id]
+            @brand = Brand.find(params[:brand_id])
+            @sneakers = @brand.sneakers
+        else
+            @sneakers = Sneaker.all
+        end
+    
+    end
+```
+
+
+
+
+
+
+
+### Many to Many Relationships 
+
+A sneaker belongs to a user, a sneaker belongs to a brand. a user has many brands thru sneakers and a brand has many users thru sneakers.
+
+```
+class Brand < ApplicationRecord
+    has_many :sneakers
+    has_many :users, through: :sneakers
+
+    validates :name, presence: true, uniqueness: true
+    scope :alphabetize, -> {order(name: :asc)}
+```
+
+end
+
+
+
+
 
 ...
 
