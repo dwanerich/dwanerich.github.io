@@ -18,12 +18,9 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ### MVC Represents a concept Model, Views, Controls in which our framework is structured in a manner that separates concerns.
 
-...
 
 
-
-
-### Validation such as `has_secure_password` are used to protect database from bad data.
+### Validations such as `has_secure_password` from Active Record are used to protect database from bad data.
 
 ...
 
@@ -71,13 +68,8 @@ class Brand < ApplicationRecord
     scope :alphabetize, -> {order(name: :asc)}
 ```
 
-end
+`<% end %>`
 
-
-
-
-
-...
 
 
 
