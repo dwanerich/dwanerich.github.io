@@ -43,13 +43,6 @@ end
 
 
 ```
-resources :sneakers do
-    resources :comments
-  end
-```
-
-
-```
 def index
         
         if params[:brand_id]
@@ -58,10 +51,7 @@ def index
         else
             @sneakers = Sneaker.all
         end
-    
-    end
 ```
-
 
 
 
