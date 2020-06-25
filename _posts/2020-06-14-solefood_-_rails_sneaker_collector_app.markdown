@@ -14,17 +14,15 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 
 
-### MVC
+### MVC Represents a concept Model, Views, Controls in which our framework is structured in a manner that separates concerns.
 
 ...
 
-### Validation
+### Validation such as has_secure_password are used to protect database from bad data.
 
 ...
 
-### Authorization
-
-
+### OmniAuth
 ...
 
 ### Nested Routes
@@ -34,13 +32,6 @@ permalink:  solefood_-_rails_sneaker_collector_app
 ### Restful Convention
 
 ...
-
-
-...
-
-
-
-
 
 
 
