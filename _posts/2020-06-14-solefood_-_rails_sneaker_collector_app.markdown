@@ -24,9 +24,6 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ### Authorization
 
-...
-
-### CRUD
 
 ...
 
@@ -34,11 +31,10 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ...
 
-### Restful Routes
+### Restful Convention
 
 ...
 
-### Form for vs Form Tag
 
 ...
 
