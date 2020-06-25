@@ -29,7 +29,8 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ### OmniAuth - Facebook allows a user to login via facebook rather than creating an new account.
 
-``Rails.application.config.middleware.use OmniAuth::Builder do
+```
+> Rails.application.config.middleware.use OmniAuth::Builder do
   provider :facebook, ENV['FACEBOOK_KEY'], ENV['FACEBOOK_SECRET']
 end
 ```
