@@ -1,12 +1,16 @@
 ---
 layout: post
-title:      "Solefood - Ruby on Rails Porfolio Project"
+title:      "Solefood - Ruby on Rails Portfolio Project"
 date:       2020-06-14 23:17:52 -0400
 permalink:  solefood_-_rails_sneaker_collector_app
 ---
 
 
-### Solefood is a sytems management app for the sneaker collector. App allows user to create an account with password or login via Facebook, add sneakers with attributes of size, price & brand association with full CRUD functionality. Users can comment on one other's sneakers & lastly delete their own account at will.
+### Solefood is a sytems management app for the sneaker collector. 
+
+### App allows user to create an account with password or login via Facebook, add sneakers with attributes of size, price & brand association with full CRUD functionality. 
+
+### Users can comment on one other's sneakers & lastly delete their own account at will.
 
 ### Below are some of the nuts & bolds upon which this app was built.
 
