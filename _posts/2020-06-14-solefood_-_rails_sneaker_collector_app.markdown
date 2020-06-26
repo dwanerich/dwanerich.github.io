@@ -7,16 +7,16 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 
 
-### My rails app Solefood is a sneaker collector sytems management app. App allows user to create an account with password, add sneakers with  a brand association with full CRUD functionality, comment on other user sneakers & lastly delete their own account.
+### Solefood is a sytems management app for the sneaker collector. App allows user to create an account with password or login via Facebook, add sneakers with attributes of size, price & brand association with full CRUD functionality. Users can comment on one other's sneakers & lastly delete their own account at will.
 
 ### Below are some of the nuts & bolds upon which this app was built.
 
 
-### The Rails project explores the conventions of MVC, Validations, Authorization, CRUD & Restful Routes.
+### The Rails project explores the conventions of MVC, Validations, Authorization, Restful & Nested Routes.
 
 
 
-### MVC Represents a concept Model, Views, Controls in which our framework is structured in a manner that separates concerns.
+> ### MVC Represents a concept of Model, Views, Controllers in which our framework is structured with distinct separation of concerns.
 
 
 
@@ -24,7 +24,7 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ...
 
-### OmniAuth - Facebook allows a user to login via facebook rather than creating an new account.
+### OmniAuth - a middleware in this app we used Facebook user authentication as an alternative for a user to log in rather than creating an new username & password.
 
 ```
 > Rails.application.config.middleware.use OmniAuth::Builder do
@@ -49,9 +49,6 @@ def index
             @sneakers = Sneaker.all
         end
 ```
-
-
-
 
 
 
