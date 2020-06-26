@@ -19,7 +19,7 @@ permalink:  solefood_-_rails_sneaker_collector_app
 
 ### Validations such as `has_secure_password` from Active Record are used to protect database from bad data.
 
-### OmniAuth - a middleware in this app we used Facebook user authentication as an alternative for a user to log in rather than creating an new username & password.
+### OmniAuth - a middleware in this app we used Facebook user authentication as an alternative for a user login.
 
 ```
 > Rails.application.config.middleware.use OmniAuth::Builder do
