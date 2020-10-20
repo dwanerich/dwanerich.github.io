@@ -6,7 +6,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 ---
 
 
-### This Application was designed 3 Pillars of Javascript.
+### This Application was inspired by 3 Pillars of Web Apps & Javascript.
 
 ### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & has many, belongs to Model relationships.
 
