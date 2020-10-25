@@ -34,6 +34,24 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 > ### `ApiService` Adapter methods are used to send information back to the server side to update the backend of changes, edits, updates, deletes that may have occured since last action.
 
 
+> ### Rails API Backend
+
+-Create Models
+-Create Controllers
+-Serializers
+
+
+> ### javaScript frontEnd
+
+-Create index.html
+-Create index.js
+-Class OOJS for model
+-ApiService.js for Adapter Methods
+
+
+
+
+
 
 
 
