@@ -5,33 +5,36 @@ date:       2020-10-19 13:06:36 -0400
 permalink:  greenl_fe_123_-_javascript_rails_api_project
 ---
 
+#### The Application was simply inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy vs sad plant.
 
-### This Application was inspired by 3 Pillars of Web Apps & Javascript.
-
-### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & has many, belongs to Model relationships.
-
-
-
-### Breaking it down into 3's
-
-
-## 3 Pillars of Web Apps
-
-### 1. HTML (structure)
-
-### 2. CSS (style)
-
-### 3. JavaScript (functionality)
+#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & a `has_many` / `belongs_to` relationships between two Models.
 
 
 
-## 3 Pillars of Javascript
-**
-### 1. listen for events
+> ### Break it down to 3's
 
-### 2. handle events
+ ## Web Apps are comprised of 3 major components:
+ 
+>#### 1) `<HTML>  This is where we construct our foundation for our we app. I like to look at it as the outline or skeleton </HTML>`
 
-### 3. communicate with the server
+>#### 2) .`CSS{ css is where we inject our styling. ie: color, font type, alignment, etc. }`
+
+> #### 3 - `(JavaScript) => { console.log("this is where we add our interactivity")} `
+
+
+
+ ## The 3 Pillars of Javascript
+
+#### 1. *listen for events*
+>### `document.addEventListeners("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }`
+
+#### 2. *handle events*
+> ### Event handlers are the callback functions that directly respond the the event listener. for example if you add an event listener to the sumbit button of a form. We would add a callback function telling the submit click to do something, in this case "preventDefault" action from occuring so now our button knows hey when you are clicked no long do that, instead do this.
+
+
+#### 3. *communicate with the server*
+> ### `ApiService` Adapter methods are used to send information back to the server side to update the backend of changes, edits, updates, deletes that may have occured since last action.
+
 
 
 
