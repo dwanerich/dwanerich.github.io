@@ -7,7 +7,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### The Application was simply inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy vs sad plant.
 
-#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & a `has_many` / `belongs_to` relationships between two Models.
+#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models.
 
 
 
