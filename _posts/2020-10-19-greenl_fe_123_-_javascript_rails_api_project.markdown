@@ -13,18 +13,16 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 > ### Break it down to 3's
 
- ## Web Apps are comprised of 3 major components:
- 
+### Web Apps consist of 3 main components:
 >#### 1) `<HTML>  This is where we construct our foundation for our we app. I like to look at it as the outline or skeleton </HTML>`
 
 >#### 2) .`CSS{ css is where we inject our styling. ie: color, font type, alignment, etc. }`
 
-> #### 3 - `(JavaScript) => { console.log("this is where we add our interactivity")} `
+> #### 3 - `(JavaScript) => { console.log("javaScript is where we add our User interactivity")} `
 
 
 
- ## The 3 Pillars of Javascript
-
+### The 3 Pillars of Javascript
 #### 1. *listen for events*
 >### `document.addEventListeners("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }`
 
