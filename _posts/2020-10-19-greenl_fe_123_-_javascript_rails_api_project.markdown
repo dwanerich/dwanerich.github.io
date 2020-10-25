@@ -14,7 +14,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 > ### Break it down to 3's
 
 ### Web Apps consist of 3 main components:
->#### 1) `<HTML>  This is where we construct our foundation for our we app. I like to look at it as the outline or skeleton </HTML>`
+>#### 1) `<HTML>`  This is where we construct our foundation for our we app. I like to look at it as the outline or skeleton `</HTML>`
 
 >#### 2) .`CSS{ css is where we inject our styling. ie: color, font type, alignment, etc. }`
 
@@ -24,7 +24,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 ### The 3 Pillars of Javascript
 #### 1. *listen for events*
->### `document.addEventListeners("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }`
+>### `document.addEventListeners`("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }
 
 #### 2. *handle events*
 > ### Event handlers are the callback functions that directly respond the the event listener. for example if you add an event listener to the sumbit button of a form. We would add a callback function telling the submit click to do something, in this case "preventDefault" action from occuring so now our button knows hey when you are clicked no long do that, instead do this.
