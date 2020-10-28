@@ -7,7 +7,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### The Application was simply inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy vs sad plant.
 
-#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models.
+#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models. The blog give you an outline of the different components pulled together to create this project. As simple as it may appear, there's a lot going on under the hood & many working part that come together to bring this App to life.
 
 
 
@@ -54,6 +54,15 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 #### 2. index.js
 #### 3. Class OOJS for model
 #### 4. ApiService.js for Adapter Methods
+
+
+### *Fetch(AJAX Request)*
+
+#### Async vs Sync
+
+
+
+
 
 
 
