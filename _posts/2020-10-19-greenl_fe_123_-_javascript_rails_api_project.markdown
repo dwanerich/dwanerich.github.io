@@ -7,7 +7,9 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### The Application was simply inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy vs sad plant.
 
-#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models. The blog give you an outline of the different components pulled together to create this project. As simple as it may appear, there's a lot going on under the hood & many working part that come together to bring this App to life.
+#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models. 
+
+#### This blog post provides you with an outline of the different components pulled together to create this project. As simple as it may appear, there's a lot going on under the hood & many working part that come together to bring this App to life.
 
 
 
@@ -32,9 +34,15 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### 3. *communicate with the server*
 > ### `ApiService` Adapter methods are used to send information back to the server side to update the backend of changes, edits, updates, deletes that may have occured since last action.
+> 
 
 
-## Dual Directory 
+
+## Dual Directory
+
+### *The Project consists a dual directory named Frontend & Backend *
+
+
 
 
 > ### *Rails API (Backend)*
@@ -46,7 +54,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 #### 3. Serializers
 
 
-> ### *javaScript (frontEnd)*
+> ### *HTML, CSS, JavaScript (frontEnd)*
 
 #### Basic starter files include:
 
@@ -59,6 +67,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 ### *Fetch(AJAX Request)*
 
 #### Async vs Sync
+
 
 
 
