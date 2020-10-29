@@ -5,17 +5,17 @@ date:       2020-10-19 13:06:36 -0400
 permalink:  greenl_fe_123_-_javascript_rails_api_project
 ---
 
-#### The Application was simply inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy vs sad plant.
+#### The Application was inspired by 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy plant vs a sad plant.
 
-#### A clean, fun, design with smooth UX flow showcasing some backend logic, AJAX requests, DOM manipulation & `has_many` / `belongs_to` relationships between two Models. 
+#### A clean, fun, design showcasing some backend logic, AJAX requests, DOM manipulation & a`has_many` / `belongs_to` relationships between two Models. 
 
-#### This blog post provides you with an outline of the different components pulled together to create this project. As simple as it may appear, there's a lot going on under the hood & many working part that come together to bring this App to life.
+#### This blog post provides you with an outline of the different components pulled together to create this project. As simple as many apps may appear, there's a lot going on under the hood & many working part that come together to bring the App to life.
 
 
 
 > ### Break it down to 3's
 
-### Web Apps consist of 3 main components:
+#### Most Web Apps consist of 3 main components:
 >#### 1) `<HTML>`  This is where we construct our foundation for our we app. I like to look at it as the outline or skeleton `</HTML>`
 
 >#### 2) .`CSS{ css is where we inject our styling. ie: color, font type, alignment, etc. }`
@@ -25,8 +25,9 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 
 ### The 3 Pillars of Javascript
+
 #### 1. *listen for events*
->### `document.addEventListeners`("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }
+>#### `document.addEventListeners`("click", handleEvent) {console.log("event listeners are ears we stick in particular places that wait for something to happen for example a click on a button and is followed up with an event handler that will do something when that initial thing happens) }
 
 #### 2. *handle events*
 > ### Event handlers are the callback functions that directly respond the the event listener. for example if you add an event listener to the sumbit button of a form. We would add a callback function telling the submit click to do something, in this case "preventDefault" action from occuring so now our button knows hey when you are clicked no long do that, instead do this.
@@ -37,10 +38,9 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 > 
 
 
+### Dual Directory
 
-## Dual Directory
-
-### *The Project consists a dual directory named Frontend & Backend *
+#### *The Project consists a dual directory named Frontend & Backend *
 
 
 
@@ -66,19 +66,4 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 ### *Fetch(AJAX Request)*
 
-#### Async vs Sync
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Fetch is a relatively newer form of AJAX(Asyncronous Javascript and XML) request in which requests are made to the server without refreshing the browser allowing applications to run smoother by sending promises for information that may not be available at the moment but keeping the flow smooth. For example, syncronous experience is your UX consisting of having to wait a few seconds for some data to process before being able to move to the next step vs it happening on the backend and UX having no idea on data being processed on the backend as things on frontend appear to be running smoothly as expected correct?
