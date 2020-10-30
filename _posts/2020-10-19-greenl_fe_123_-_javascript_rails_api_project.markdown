@@ -7,9 +7,9 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### The Application was inspired by the 3 Pillars of Javascript, my love for plants & teaching my 4 year old son how to indentify a happy plant vs a sad plant.
 
-#### A clean, fun, design showcasing some backend logic, AJAX requests, DOM manipulation & a`has_many` / `belongs_to` relationships between two Models. 
+#### GreenL!fe is a clean, fun single page application(SPA) showcasing backend logic, AJAX requests, DOM manipulation & a`has_many` / `belongs_to` relationships between two Models. 
 
-#### This blog post provides you with an outline of the different components pulled together to create this project. As simple as many apps may appear, there's a lot going on under the hood & many working part that come together to bring the App to life.
+#### Follow along for an outline of the different components pulled together to create this project. As we being to dive deeper and deeper into the dev world, we discover as simple as many apps may appear, there's a lot going on under the hood with many working part coming together to bring the App to life.
 
 
 
@@ -37,12 +37,9 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 > ### `ApiService` Adapter methods are used to send information back to the server side to update the backend of changes, edits, updates, deletes that may have occured since last action.
 > 
 
-
 ### Dual Directory
 
 #### *The Project consists a dual directory named Frontend & Backend *
-
-
 
 
 > ### *Rails API (Backend)*
@@ -52,7 +49,6 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 #### 1. Models
 #### 2. Controllers
 #### 3. Serializers
-
 
 > ### *HTML, CSS, JavaScript (frontEnd)*
 
