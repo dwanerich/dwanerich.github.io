@@ -9,7 +9,7 @@ permalink:  greenl_fe_123_-_javascript_rails_api_project
 
 #### GreenL!fe is a clean, fun single page application(SPA) showcasing backend logic, AJAX requests, DOM manipulation & a`has_many` / `belongs_to` relationships between two Models. 
 
-#### Follow along for an outline of the different components pulled together to create this project. As we begin to dive deeper and deeper into the dev world, we discover as simple as many apps may appear, there's a lot going on under the hood with many working part coming together to bring the App to life.
+#### Follow along for an outline of the different components pulled together to create this project. As we begin to dive deeper and deeper into world of software development, we discover as simple as many apps may appear, there's a lot going on under the hood with many working part coming together to bring the App to life.
 
 
 
