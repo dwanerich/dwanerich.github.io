@@ -1,12 +1,14 @@
 ---
 layout: post
 title:      "Code + Beats"
-date:       2021-01-11 19:28:40 +0000
+date:       2021-01-11 14:28:41 -0500
 permalink:  code_beats
 ---
 
 
-I found that learning was not actually my first time learning to code. There are many parallels to coding and making beats let's say via garageband, logic pro or any other DAW(Digital Audio Workstation). For starters, as a coder and a beat maker we all begin at ideation phase for the most part where we see something in our head that we want to bring to life, we see sounds. Like a musician a coder can have a vision but it is understanding how to leverage the tools to bring that vision to life that's just as essential.
+I realized that learning to code for most of us was not actually our first time learning to code. There are many parallels to coding and making beats. Like whatever it is you did before you discovered the wonderful world of software development the sooner you find your parallels i think it helps sometimes conceptualizing things.
+
+Let's say via garageband, logic pro or any other DAW(Digital Audio Workstation). For starters, as a coder and a beat maker we all begin at ideation phase for the most part where we see something in our head that we want to bring to life, we see sounds. Like a musician a coder can have a vision but it is understanding how to leverage the tools to bring that vision to life that's just as essential.
 
 As in beats, in code we start with a project file empty or we can use a session template to get us started, in Logic pro as in Ruby on Rails  we would do `rails g scaffold` or `npx create-react-app my-app`
 
