@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: dwanerich@gmail.com
 copyright_name: dwane richards
 description: > # this means to ignore newlines until "baseurl:"
-  the journey of a software engineer
+  the journey to becoming a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: DWANERICH
 github_username:  dwanerich
